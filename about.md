@@ -31,6 +31,7 @@ We draw from the cultural tradition of "kitchen table talks" which designate the
 Victoria (they/she) is a Joint PhD student in the Computer Science + Learning Sciences Program at Northwestern University. Their research interests stem from asking "How can we make computer science a safe and joyous experience for Black, Disabled, Indigenous, and Latine/x college students?". Victoria is also broadly interested in issues of accessibility, civic tech, equity, and social justice.
 
 ### Guest Host: Natalie Araujo Melo
+Natalie (she/they) is a Joint PhD student in the Computer Science + Learning Sciences Program at Northwestern University. Their interests lie in unmasking the ways systems of power influence harm in the creation, use, and expansion of technologies. She sees learning environments as places to grapple, heal, and transform our relations (with each other, with the human/non-human Other, with the world), which can ultimately shape the technologies around us.
 
 ### Guest Host: Francisco Castro
 
